@@ -1,2 +1,2 @@
 # ganttChart
-A gantt chart implementation with Highcharts(highstock)
+A gantt chart implementation for Highcharts(highstock)
